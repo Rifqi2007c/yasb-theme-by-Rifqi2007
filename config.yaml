@@ -366,7 +366,7 @@ widgets:
       label: "{win[title]}"
       label_alt: "[class_name='{win[class_name]}' exe='{win[process][name]}' hwnd={win[hwnd]}]"
       label_no_window: ""
-      max_length: 34
+      max_length: 32
       max_length_ellipsis: "..."
       monitor_exclusive: true
 
